@@ -11,6 +11,7 @@ public class Board {
 	private ArrayList<Character[][]> diffSteps;
 	private HashMap<String, ArrayList<Move>> possibleMoves;
 	
+	// testing edit
 	
 	// Constructor
 	// Put the pins in  that the user enters
