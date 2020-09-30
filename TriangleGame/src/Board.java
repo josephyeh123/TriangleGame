@@ -12,7 +12,7 @@ public class Board {
 	private HashMap<String, ArrayList<Move>> possibleMoves;
 	
 	// testing edit
-	
+	// edit #2
 	// Constructor
 	// Put the pins in  that the user enters
 	public Board(JRadioButton[][] havePin) {
